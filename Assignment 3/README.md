@@ -1,0 +1,4 @@
+# University_Model
+
+Assignement 3
+Abstract: To instill the techniques for turning an object model into a machine for information gathering and data aggregation. We want to use software engineering techniques to improve the quality of education anywhere and hold people accountable for improving the quality of life through education, learning to learn, and feedback. Your task is to study ways to create a performance measurement solution to enable universities to measure the quality of the education they deliver to their students. The approach will be to investigate how an educational system in terms of faculty and courses contribute to the growth of their graduates over a 5-year period. You must figure out ways to track the jobs and promotions graduates get over time and assign rankings accordingly. In addition, track the connection of courses and their relevance to graduates' growth.
